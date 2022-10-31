@@ -67,7 +67,7 @@ hr {
   height: 80px;
   text-align: center;
   box-shadow: 0 0 15px 10px rgb(51, 56, 56);
-  margin: 0 10px;
+  margin: 0 13px;
   border-radius: 50px;
   font-size: 30px;
   line-height: 80px;
@@ -93,12 +93,13 @@ hr {
   width: 80px;
   height: 150px;
   text-align: center;
-  margin: 0 10px;
-  color: rgb(99, 94, 94);
+  margin: 0 15px;
+  color: rgb(208, 198, 198);
   font-size: large;
 }
 .follow .main {
   font-size: small;
+  color: rgb(107, 116, 116);
 }
 .clr {
   clear: both;
