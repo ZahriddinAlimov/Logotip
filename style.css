@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #000;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.clr {
+  clear: both;
+}
+.nmadr {
+  box-shadow: 0 0 17px rgb(107, 116, 116);
+  border-radius: 10px;
+  text-align: center;
+  color: rgb(99, 94, 94);
+}
+.navbar {
+  margin: 0 0 15px;
+  border-radius: 10%;
+}
+.quti {
+  width: 350px;
+  margin: 8% auto;
+  padding: 10px;
+  background-color: rgba(74, 68, 68, 0.23);
+  box-shadow: 0 0 17px rgb(99, 94, 94);
+  border-radius: 20px;
+}
+
+#testemonial .test img {
+  width: 100px;
+  text-align: center;
+  box-shadow: 0 0 17px rgb(99, 94, 94);
+  border-radius: 50%;
+  position: relative;
+  margin: 0 110px;
+}
+
+.yozuv {
+  text-align: center;
+  color: rgb(99, 94, 94);
+}
+.yozuvv {
+  text-align: center;
+  color: rgb(99, 94, 94);
+}
+
+.wraper button {
+  background-color: rgb(208, 119, 92);
+  border-radius: 10px;
+  margin: 0 92px;
+  width: 150px;
+  box-shadow: 0 0 15px 5px rgb(51, 56, 56);
+  color: aliceblue;
+  text-decoration: none;
+}
+
+hr {
+  color: rgb(99, 94, 94);
+}
+
+.icons i {
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  box-shadow: 0 0 15px 10px rgb(51, 56, 56);
+  margin: 0 10px;
+  border-radius: 50px;
+  font-size: 30px;
+  line-height: 80px;
+  position: relative;
+  object-fit: cover;
+}
+
+.icons .fa-solid {
+  background-color: rgb(208, 119, 92);
+  color: #fff;
+  box-shadow: 0 0 15px 10px rgb(51, 56, 56);
+}
+.icons .fa-brands {
+  background-color: rgb(208, 119, 92);
+  color: #fff;
+  box-shadow: 0 0 15px 10px rgb(51, 56, 56);
+}
+.clr {
+  clear: both;
+}
+.follow {
+  float: left;
+  width: 80px;
+  height: 150px;
+  text-align: center;
+  margin: 0 10px;
+  color: rgb(99, 94, 94);
+  font-size: large;
+}
+.follow .main {
+  font-size: small;
+}
+.clr {
+  clear: both;
+}
